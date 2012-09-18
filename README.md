@@ -20,6 +20,8 @@ It's basically the same as the original Insert Color command wih a few changes:
 
 I understand this is a hack and not every one uses FastScrits, but it works with the free (unregistred) version. A good occasion to try FastScrits and buy it if you like it.
 
+**Tested with TextMate Version 2.0 (9309)**
+
 [1]: https://github.com/textmate/textmate/issues/444
 [2]: http://www.red-sweater.com/fastscripts/
 
