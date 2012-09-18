@@ -7,7 +7,7 @@ I really miss the "Insert Color…" (S)CSS command and tried to fix it.
 
 Due to a TM2 bug (filed [here][1]), there is no way (that I found) to launch the color picker from TM for now, so I tried to find a workaround.
 
-To make it short, the only way I found is to launch the color picker from another app, ideally an always opened app with no window. I tried the menu bar items I use, none worked except [FastScrits][1].
+To make it short, the only way I found is to launch the color picker from another app, ideally an always opened app with no window. I tried the menu bar items I use, none worked except [FastScrits][2].
 
 So I made a command using this trick (or hugly hack if you prefer ;).
 
